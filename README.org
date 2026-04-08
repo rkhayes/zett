@@ -1,0 +1,31 @@
+* Zett
+** Clarification and Guidance For Your Zettelkasten
+These concepts serve as a baseline to help you define and organize your system. They are not rigid rules; ~zett~ is flexible enough to support workflows that depart from these suggestions, so treat this as a reference rather than a mandate.
+- *Not everything you write is a Zettel*
+  A Zettel is an atomic unit of thought that, when interconnected, forms the backbone of your Zettelkasten. However, not every file in your system qualifies as one.
+
+  Supporting files that do not directly contribute to the "web of ideas" often belong outside your primary slip-box. This is typically the case for meta-files -- documents designed to aggregate or organize existing knowledge rather than generate new insights.
+
+  - Maps of Content (MoCs): While frequently stored within the slip-box for easy access, these are structural nodes rather than atomic ideas.
+
+  - External Projects: A scientific paper or a long-form essay, for instance, has no place inside the slip-box. These are outputs—complex, non-atomic structures that sit at a higher level than the individual notes used to build them.
+- *The principle of connectivity*
+  A Zettel is only as valuable as its relationships. A note without a link is an "orphan" -- it is effectively lost to your future self because there is no path leading to it.
+
+  This turns your system from an archive (where things tend to pile up and be forgotten) into a living ecossystem where ideas can bloom from existing materia.
+- *The collector's fallacy*
+  A common pitfall is filling a slip-box with highlights and copy-pasted excerpts. This is "Collector’s Fallacy" -- the belief that having the information is the same as knowing it.
+
+  To cite [[https://x.com/karpathy/status/1756380066580455557][Andrej Karpathy]]:
+  #+begin_quote
+  Don't just read, take notes, re-read, re-phrase, process, manipulate, learn.
+  #+end_quote
+
+  A Zettel should be written in your own words (paraphrased). If you must include a quote, it should be followed by your own commentary or critique.
+
+  You can learn more about this concept [[https://zettelkasten.de/posts/collectors-fallacy/][here]].
+
+For further clarification on how Zettelkasten works and how to develop your own system, consult the following resources:
+- https://writing.bobdoto.computer/what-is-a-fleeting-note/
+- https://writing.bobdoto.computer/what-is-a-literature-note/
+- https://writing.bobdoto.computer/what-is-a-permanent-note-correcting-some-common-misunderstandings/
